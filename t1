@@ -1,0 +1,15 @@
+End Point:- https://beeceptor.com/console/amangeekster
+
+CRUD API's :-
+
+POST /tasks
+
+GET /tasks
+
+GET /task?taskId=2
+
+PUT /tasks/taskId=2
+
+DELETE /tasks?taskId=1
+
+
